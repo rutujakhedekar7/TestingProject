@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-05T10:17:27 IST" name="Default suite" finished-at="2023-09-05T10:20:09 IST" duration-ms="162141">
+    <groups>
+    </groups>
+    <test started-at="2023-09-05T10:17:27 IST" name="Default test" finished-at="2023-09-05T10:20:09 IST" duration-ms="162141">
+      <class name="testCase.TC01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:17:27 IST" name="BeforeMethod" finished-at="2023-09-05T10:17:47 IST" duration-ms="20217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="VerifyLogin()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:17:47 IST" name="VerifyLogin" finished-at="2023-09-05T10:18:04 IST" duration-ms="17359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:04 IST" name="AfterMethod" finished-at="2023-09-05T10:18:05 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:05 IST" name="BeforeMethod" finished-at="2023-09-05T10:18:25 IST" duration-ms="20770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyCookieHandle()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:25 IST" name="verifyCookieHandle" finished-at="2023-09-05T10:18:25 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCookieHandle -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:25 IST" name="AfterMethod" finished-at="2023-09-05T10:18:26 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:26 IST" name="BeforeMethod" finished-at="2023-09-05T10:18:41 IST" duration-ms="15477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyGetWindowhandle()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:41 IST" name="verifyGetWindowhandle" finished-at="2023-09-05T10:18:53 IST" duration-ms="11130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetWindowhandle -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:53 IST" name="AfterMethod" finished-at="2023-09-05T10:18:53 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:18:53 IST" name="BeforeMethod" finished-at="2023-09-05T10:19:14 IST" duration-ms="21395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyMouseHover()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:14 IST" name="verifyMouseHover" finished-at="2023-09-05T10:19:14 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHover -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:14 IST" name="AfterMethod" finished-at="2023-09-05T10:19:15 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:15 IST" name="BeforeMethod" finished-at="2023-09-05T10:19:39 IST" duration-ms="24560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollDown()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:39 IST" name="verifyScrollDown" finished-at="2023-09-05T10:19:40 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollDown -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:40 IST" name="AfterMethod" finished-at="2023-09-05T10:19:40 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:40 IST" name="BeforeMethod" finished-at="2023-09-05T10:19:59 IST" duration-ms="19325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifySearchBar()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:19:59 IST" name="verifySearchBar" finished-at="2023-09-05T10:20:09 IST" duration-ms="9116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBar -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@7674f035]" started-at="2023-09-05T10:20:09 IST" name="AfterMethod" finished-at="2023-09-05T10:20:09 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- testCase.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
